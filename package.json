@@ -1,0 +1,6 @@
+{
+  "name": "com.kitkat.simpleaudio",
+  "version": "0.0.1",
+  "displayName": "Simple Audio",
+  "description": "A simple utility to help new gamedevs get audio into their games with as low barrier of entry as possible."
+}
